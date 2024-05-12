@@ -12,4 +12,6 @@ Sınıflar
 3. Öğrenci
     - Öğrencilerin bilgilerini tutar.
     - adi, soyadi, yas, e_posta, egitim_aldigi_yer, sinifi özelliklerine sahiptir.
-<img width="427" alt="Снимок экрана 2024-05-05 в 23 58 21" src="https://github.com/Munavvarbegim/proje5/assets/168825452/be3cdc8b-cae0-44c5-a266-51f9750da3e1">
+
+<img width="1470" alt="Снимок экрана 2024-05-13 в 00 13 25" src="https://github.com/Munavvarbegim/proje5/assets/168825452/cab0910c-3b4b-4986-85cb-d1da7d454d39">
+
